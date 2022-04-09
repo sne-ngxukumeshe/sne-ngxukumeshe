@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sne-ngxukumeshe! My full name is Sinenhlanhla but I prefer to be called Sne.
+- 🔥 I’m passionate about gender studies, systemic oppression, natural language processing, machine learning and social networks.
+- 🌱 I’m currently learning R, Python, SQL and more machine learning. 
+- 🌻 As data becomes more and more important in our world, I aim to bring awareness to intersection with the social and economic, the private and the public.
